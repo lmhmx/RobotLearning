@@ -7,3 +7,7 @@
 # ThreeLink
 
 三连杆机器人跟踪物体运动
+
+# TwoLink
+
+两连杆机器人跟踪物体运动，使用了simulink,运行方式见TwoLink文件夹
